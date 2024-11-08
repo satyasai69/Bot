@@ -11,7 +11,7 @@ This is a Telegram bot that allows users to manage their Ethereum tokens and Eth
 - Manage your token balances and transaction history
 - Easy-to-use chat interface
 
-**Getting Started** 
+**Getting Started**
 
 1. Start a conversation with the bot by sending a message to its Telegram username.
 2. Follow the bot's instructions to set up your wallet and link it to your Ethereum account.
