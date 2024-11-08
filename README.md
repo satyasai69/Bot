@@ -1,4 +1,4 @@
-**Telegram Token Wallet **
+**Telegram Token Wallet**
 
 **Introduction**
 
